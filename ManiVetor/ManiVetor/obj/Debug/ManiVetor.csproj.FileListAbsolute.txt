@@ -1,0 +1,7 @@
+C:\Users\Gustavo\Documents\Aulas C#\ManiVetor\ManiVetor\bin\Debug\ManiVetor.exe.config
+C:\Users\Gustavo\Documents\Aulas C#\ManiVetor\ManiVetor\bin\Debug\ManiVetor.exe
+C:\Users\Gustavo\Documents\Aulas C#\ManiVetor\ManiVetor\bin\Debug\ManiVetor.pdb
+C:\Users\Gustavo\Documents\Aulas C#\ManiVetor\ManiVetor\obj\Debug\ManiVetor.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\Aulas C#\ManiVetor\ManiVetor\obj\Debug\ManiVetor.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Aulas C#\ManiVetor\ManiVetor\obj\Debug\ManiVetor.exe
+C:\Users\Gustavo\Documents\Aulas C#\ManiVetor\ManiVetor\obj\Debug\ManiVetor.pdb
